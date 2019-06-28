@@ -32,10 +32,10 @@
     <th colspan="7">Массив экспериментальных данных</th>
    </tr>
    <tr>
-      <td rowspan="3">1</td>
+      <th rowspan="3">1</th>
       <td><b>x<sub>1</sub></b></td>
       <td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
-       <td rowspan="3">16</td>
+       <th rowspan="3">16</th>
       <td><b>x<sub>1</sub></b></td>
       <td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td>
    </tr>
@@ -53,10 +53,10 @@
    </tr>
     </tr>
     <tr>
-      <td rowspan="3">2</td>
+      <th rowspan="3">2</th>
       <td><b>x<sub>1</sub></b></td>
       <td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td>
-       <td rowspan="3">17</td>
+       <th rowspan="3">17</th>
       <td><b>x<sub>1</sub></b></td>
       <td>-3</td><td>-2</td><td>0</td><td>1</td><td>2</td><td>3</td>
    </tr>
@@ -71,5 +71,45 @@
       <td>2</td><td>-1</td><td>-2</td><td>-1</td><td>2</td><td>3</td>
        <td><b>y</b></td>
       <td>16</td><td>5</td><td>5</td><td>0</td><td>10</td><td>21</td>
+   </tr>
+   <tr>
+      <th rowspan="3">3</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>1</td><td>2</td><td>3</td><td>0</td><td>-1</td><td>-2</td>
+       <th rowspan="3">18</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-3</td><td>-1</td><td>1</td><td>2</td><td>0</td><td>-2</td>
+   </tr>
+   <tr>
+      <td><b>x<sub>2</sub></b></td>
+      <td>2</td><td>1</td><td>0</td><td>-1</td><td>-2</td><td>-3</td>
+       <td><b>x<sub>2</sub></b></td>
+      <td>2</td><td>1</td><td>-1</td><td>-2</td><td>4</td><td>-2</td>
+   </tr>
+   <tr>
+      <td><b>y</b></td>
+      <td>1</td><td>2</td><td>9</td><td>2</td><td>-6</td><td>-22</td>
+       <td><b>y</b></td>
+      <td>-1</td><td>3</td><td>1</td><td>-3</td><td>8</td><td>6</td>
+   </tr>
+   <tr>
+      <th rowspan="3">4</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-3</td><td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td>
+       <th rowspan="3">19</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-3</td><td>-2</td><td>1</td><td>0</td><td>2</td><td>3</td>
+   </tr>
+   <tr>
+      <td><b>x<sub>2</sub></b></td>
+      <td>-2</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+       <td><b>x<sub>2</sub></b></td>
+      <td>1</td><td>2</td><td>-3</td><td>4</td><td>-1</td><td>-2</td>
+   </tr>
+   <tr>
+      <td><b>y</b></td>
+      <td>7</td><td>4</td><td>4</td><td>6</td><td>10</td><td>15</td>
+       <td><b>y</b></td>
+      <td>5</td><td>8</td><td>1</td><td>12</td><td>5</td><td>8</td>
    </tr>
   </table>
