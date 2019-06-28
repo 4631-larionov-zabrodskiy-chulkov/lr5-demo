@@ -4,5 +4,4 @@ script:
     - yes '' | sudo add-apt-repository ppa:octave/stable
     - sudo apt-get update
     - sudo apt-get install octave
-    - octave myLr3.m
     - bash runTests.sh
