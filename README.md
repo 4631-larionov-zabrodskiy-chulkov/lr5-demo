@@ -28,18 +28,27 @@
 <tr>
     <th>№ варианта</th>
     <th colspan="7">Массив экспериментальных данных</th>
+    <th>№ варианта</th>
+    <th colspan="7">Массив экспериментальных данных</th>
    </tr>
    <tr>
       <td rowspan="3">1</td>
       <td><b>x<sub>1</sub></b></td>
       <td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+       <td rowspan="3">16</td>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td>
    </tr>
    <tr>
       <td><b>x<sub>2</sub></b></td>
       <td>2</td><td>3</td><td>1</td><td>-1</td><td>0</td><td>-2</td>
+       <td><b>x<sub>2</sub></b></td>
+      <td>2</td><td>3</td><td>4</td><td>-1</td><td>-2</td><td>0</td>
    </tr>
    <tr>
       <td><b>y</b></td>
       <td>-10</td><td>-9</td><td>0</td><td>5</td><td>6</td><td>7</td>
+       <td><b>y</b></td>
+      <td>-4</td><td>1</td><td>6</td><td>-3</td><td>5</td><td>9</td>
    </tr>
   </table>
