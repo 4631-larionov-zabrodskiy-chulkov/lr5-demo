@@ -112,6 +112,66 @@
        <td><b>y</b></td>
       <td>5</td><td>8</td><td>1</td><td>12</td><td>5</td><td>8</td>
    </tr>
+   <tr>
+      <th rowspan="3">5</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-2</td><td>-1</td><td>0</td><td>2</td><td>4</td><td>5</td>
+       <th rowspan="3">20</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td>
+   </tr>
+   <tr>
+      <td><b>x<sub>2</sub></b></td>
+      <td>-3</td><td>-2</td><td>-1</td><td>0</td><td>3</td><td>2</td>
+       <td><b>x<sub>2</sub></b></td>
+      <td>3</td><td>2</td><td>1</td><td>-1</td><td>-2</td><td>-3</td>
+   </tr>
+   <tr>
+      <td><b>y</b></td>
+      <td>-6</td><td>-1</td><td>0</td><td>5</td><td>-7</td><td>-1</td>
+       <td><b>y</b></td>
+      <td>-16</td><td>-6</td><td>1</td><td>3</td><td>0</td><td>-7</td>
+   </tr>
+   <tr>
+      <th rowspan="3">6</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-1</td><td>1</td><td>0</td><td>2</td><td>3</td><td>4</td>
+       <th rowspan="3">21</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-3</td><td>-1</td><td>3</td><td>2</td><td>1</td><td>-2</td>
+   </tr>
+   <tr>
+      <td><b>x<sub>2</sub></b></td>
+      <td>-2</td><td>-1</td><td>1</td><td>2</td><td>0</td><td>3</td>
+       <td><b>x<sub>2</sub></b></td>
+      <td>1</td><td>0</td><td>-1</td><td>-2</td><td>2</td><td>3</td>
+   </tr>
+   <tr>
+      <td><b>y</b></td>
+      <td>-12</td><td>0</td><td>0</td><td>4</td><td>7</td><td>4</td>
+       <td><b>y</b></td>
+      <td>22</td><td>5</td><td>-9</td><td>-3</td><td>4</td><td>31</td>
+   </tr>
+   <tr>
+      <th rowspan="3">7</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>3</td><td>-2</td><td>1</td><td>0</td><td>2</td><td>3</td>
+       <th rowspan="3">22</th>
+      <td><b>x<sub>1</sub></b></td>
+      <td>-3</td><td>-2</td><td>0</td><td>-1</td><td>1</td><td>2</td>
+   </tr>
+   <tr>
+      <td><b>x<sub>2</sub></b></td>
+      <td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+       <td><b>x<sub>2</sub></b></td>
+      <td>2</td><td>1</td><td>-1</td><td>3</td><td>-2</td><td>-5</td>
+   </tr>
+   <tr>
+      <td><b>y</b></td>
+      <td>-1</td><td>6</td><td>1</td><td>7</td><td>-5</td><td>-15</td>
+       <td><b>y</b></td>
+      <td>-10</td><td>-4</td><td>3</td><td>-7</td><td>5</td><td>4</td>
+   </tr>
   </table>
 
 ## Содержание отчёта
