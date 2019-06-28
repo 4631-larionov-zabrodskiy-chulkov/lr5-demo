@@ -1,3 +1,0 @@
-error: 'safafs' undefined near line 10 column 13
-error: called from
-    myLr3error at line 10 column 13
